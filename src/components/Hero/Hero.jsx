@@ -17,7 +17,7 @@ function Hero() {
                 <div id="hero-text">
                     <h2>Nguyen Hoang Thanh Phan</h2>
                     <p id="hero-subtitle">
-                        ComSci student building full-stack applications with
+                        Computer Science student building full-stack applications with
                         modern technologies and clean solutions.
                     </p>
                     <p id="hero-description">
@@ -33,14 +33,14 @@ function Hero() {
                     </a>
                 </button>
                 <div id="hero-links">
-                    <a className="hero-link" href={`mailto:${email}`}>
-                        <img src={email_icon} alt="Email" />
+                    <a className="hero-link" href={linkedin}>
+                        <img src={linkedin_icon} alt="LinkedIn" />
                     </a>
                     <a className="hero-link" href={github}>
                         <img src={github_icon} alt="GitHub" />
                     </a>
-                    <a className="hero-link" href={linkedin}>
-                        <img src={linkedin_icon} alt="LinkedIn" />
+                    <a className="hero-link" href={`mailto:${email}`}>
+                        <img src={email_icon} alt="Email" />
                     </a>
                 </div>
             </div>

@@ -10,7 +10,7 @@
     align-items: center;
     height: 100vh;
     text-align: center;
-    margin: -70px 100px 0px 100px;
+    margin: -50px 100px 0px 100px;
 }
 
 #hero-content {
@@ -75,6 +75,10 @@
     justify-content: space-between;
     width: 30%;
     margin-top: 10px;
+}
+
+#hero-links a:hover {
+    transform: scale(1.1);
 }
 
 .hero-link img {
