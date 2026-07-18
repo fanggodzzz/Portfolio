@@ -4,25 +4,24 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Projects from "./components/Projects/Projects";
 import Skills from "./components/Skills/Skills";
+import "./index.css";
 
 function App() {
     return (
-        <div>
+        <div className="app">
             <Header />
-            <br />
-            <br />
-            <Hero />
-            <br />
-            <br />
-            <Skills />
-            <br />
-            <br />
-            <Projects />
-            <br />
-            <br />
-            <Contact />
-            <br />
-            <br />
+            <main>
+                <Hero />
+                <br />
+                <br />
+                <Skills />
+                <br />
+                <br />
+                <Projects />
+                <br />
+                <br />
+                <Contact />
+            </main>
             <Footer />
         </div>
     );

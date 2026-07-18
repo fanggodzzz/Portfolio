@@ -1,0 +1,83 @@
+#portrait img {
+    width: 600px;
+    height: 600px;
+}
+
+#home {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    margin: -70px 100px 0px 100px;
+}
+
+#hero-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px;
+}
+
+#download-resume-button {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin: 20px 0px 20px 0px;
+    padding: 15px 25px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#download-resume-button:hover {
+    background-color: #333333;
+}
+
+#download-resume-button a {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+#hero-text h2 {
+    text-align: left;
+    font-size: 70px;
+    font-weight: 510;
+    color: #333;
+    line-height: 1.1;
+}
+
+#hero-text p {
+    text-align: left;
+    margin-top: 15px;
+    line-height: 1.5;
+}
+
+#hero-subtitle {
+    font-size: 30px;
+    color: #605f5f;
+    font-weight: 540;
+}
+
+#hero-description {
+    font-size: 23px;
+    color: #888888;
+}
+
+#hero-links {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.hero-link img {
+    width: 35px;
+    height: 35px;
+}

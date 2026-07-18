@@ -6,9 +6,6 @@ function Nav() {
             <a className="nav-link" href="#home">
                 Home
             </a>
-            <a className="nav-link" href="#about">
-                About
-            </a>
             <a className="nav-link" href="#skills">
                 Skills
             </a>
