@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.972c26b9.css",
+    "main.js": "/static/js/main.ec8e6d9d.js",
+    "static/media/framed_portrait.png": "/static/media/framed_portrait.513b86a4cc403c1d6d68.png",
+    "static/media/resume.pdf": "/static/media/resume.e585893ef24bba8ad74e.pdf",
+    "static/media/github_icon.png": "/static/media/github_icon.60cd3e699554a87e205f.png",
+    "static/media/android-chrome-192x192.png": "/static/media/android-chrome-192x192.682236e25947ca0db711.png",
+    "static/media/email_icon.png": "/static/media/email_icon.9082177d266cee25a57b.png",
+    "index.html": "/index.html",
+    "main.972c26b9.css.map": "/static/css/main.972c26b9.css.map",
+    "main.ec8e6d9d.js.map": "/static/js/main.ec8e6d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972c26b9.css",
+    "static/js/main.ec8e6d9d.js"
+  ]
+}
