@@ -35,4 +35,26 @@ export default {
         githubLink: "https://github.com/fanggodzzz/CP468_A02",
         demoLink: null,
     },
+
+    "AI-Powered Course Management Platform": {
+        description:
+            "A scalable full-stack course management platform with a layered backend architecture, featuring JWT authentication, role-based authorization, and Google OAuth2.0 for secure Gmail-based login, built collaboratively in a 12-week Agile Kanban team.",
+        technologies: [
+            "Node.js",
+            "MySQL",
+            "MS Azure",
+            "Google OAuth2.0",
+            "JWT",
+        ],
+        githubLink: "https://github.com/kruugerr/cp476-project",
+        demoLink: null,
+    },
+
+    "Full-Stack-RAG: Software Documentation Retrieval System": {
+        description:
+            "An end-to-end retrieval-augmented generation system for software documentation, combining automated crawling and preprocessing with a hybrid BM25 and Word2Vec ranking pipeline, using Ollama to generate context-grounded responses.",
+        technologies: ["Python", "BM25", "Word2Vec", "Ollama", "RAG"],
+        githubLink: "https://github.com/fanggodzzz/Full-Stack-RAG",
+        demoLink: null,
+    },
 };
